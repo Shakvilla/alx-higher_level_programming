@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-
 # 0x0C. Python - Almost a circle
 
-=======
-
-> > > > > > > 2aa5368 (initial commit)
-> > > > > > > All your files, classes and methods must be unit tested and be PEP 8 validated.
-
+All your files, classes and methods must be unit tested and be PEP 8 validated.
 Write the first class Base:
 
 Create a folder named models with an empty file **init**.py inside - with this file, the folder will become a Python package
